@@ -6,6 +6,7 @@ All solutions are implemented in C++.
 ## 📌 Problems Included:
 - [4A - Watermelon](https://codeforces.com/problemset/problem/4A)
 - [71A - Way Too Long Words](https://codeforces.com/problemset/problem/71A)
+- 231A_TEAM
 
 ## 🚀 How to Use:
 1. Clone the repository:
