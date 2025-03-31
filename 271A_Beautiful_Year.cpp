@@ -27,7 +27,7 @@ Output:
 using namespace std;
 
 int main() {
-    int y;
+    int y;          // use cin.tie(0) //
     cin >> y;
     
     while (true) {
