@@ -22,23 +22,25 @@ Note that the letters' case is not taken into consideration when the strings are
 
 Examples:
 Input:
+
 aaaa
 aaaA
 Output:
 0
+
 Input:
 abs
 Abz
 Output:
 -1
+
 Input:
 abcdefg
 AbCdEfF
+
 Output:
 1
-Note
-If you want more formal information about the lexicographical order
-(also known as the "dictionary order" or "alphabetical order"), you can visit the following site:
+
 */
 
 #include<bits/stdc++.h>
